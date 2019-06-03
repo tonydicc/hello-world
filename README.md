@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+I'm Antonio and I like programming and machine learning.
